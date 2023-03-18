@@ -181,6 +181,20 @@ body{
     font-size: 1.2em;
 }
 
+.row-padding {
+    position: relative;
+    padding-left: 70px;
+}
+
+.convo {
+    margin-left: 160px;
+    
+}
+
+.Brochure {
+    margin-left: 30px;
+}
+
 .page-footer{
     padding-top: 32px;
     border-top: 1px solid #ddd;
